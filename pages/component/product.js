@@ -43,7 +43,7 @@ const Product = () => {
                     <path d="M5 12h14M12 5l7 7-7 7" />
                   </svg>
                 </button>
-                <p className="text-xs text-gray-500 mt-3">Literally you probably haven't heard of them jean shorts.</p>
+                <p className="text-xs text-gray-500 mt-3">Literally you probably havent heard of them jean shorts.</p>
               </div>
             </div>
             <div className="p-4 xl:w-1/4 md:w-1/2 w-full">
@@ -87,7 +87,7 @@ const Product = () => {
                     <path d="M5 12h14M12 5l7 7-7 7" />
                   </svg>
                 </button>
-                <p className="text-xs text-gray-500 mt-3">Literally you probably haven't heard of them jean shorts.</p>
+                <p className="text-xs text-gray-500 mt-3">Literally you probably havent heard of them jean shorts.</p>
               </div>
             </div>
             <div className="p-4 xl:w-1/4 md:w-1/2 w-full">
@@ -137,7 +137,7 @@ const Product = () => {
                     <path d="M5 12h14M12 5l7 7-7 7" />
                   </svg>
                 </button>
-                <p className="text-xs text-gray-500 mt-3">Literally you probably haven't heard of them jean shorts.</p>
+                <p className="text-xs text-gray-500 mt-3">Literally you probably havent heard of them jean shorts.</p>
               </div>
             </div>
             <div className="p-4 xl:w-1/4 md:w-1/2 w-full">
@@ -187,7 +187,7 @@ const Product = () => {
                     <path d="M5 12h14M12 5l7 7-7 7" />
                   </svg>
                 </button>
-                <p className="text-xs text-gray-500 mt-3">Literally you probably haven't heard of them jean shorts.</p>
+                <p className="text-xs text-gray-500 mt-3">Literally you probably havent heard of them jean shorts.</p>
               </div>
             </div>
           </div>
