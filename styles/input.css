@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.shape>svg {
+    height: auto;
+    -webkit-transform: scale(2);
+    transform: scale(2);
+    -webkit-transform-origin: top center;
+    transform-origin: top center;
+    width: 100%;
+    z-index: 999;
+}
+#topnav {
+    background-color: transparent;
+    border-width: 0;
+    left: 0;
+    position: fixed;
+    right: 0;
+    top: 0;
+    transition-duration: .5s;
+    transition-property: all;
+    transition-timing-function: cubic-bezier(.4,0,.2,1);
+    z-index: 999;
+}
+
+.shadow-test {
+    -webkit-filter: drop-shadow( 8px 8px 5px rgba(0, 0, 0, .7));
+    filter: drop-shadow( 1px 1px 2px rgba(0, 0, 0, 0.877)); 
+    z-index: 999;
+  } 
+.svgdiv{
+
+    border-image-width:0px;
+}
+#banner{
+    background: bottom;
+    background-image: url('./images/bg.png') !important; 
+   
+}
