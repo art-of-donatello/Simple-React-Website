@@ -7,7 +7,7 @@ const Banner = () => {
       <div className="xl:w-1/4 lg:w-3/5 md:w-1/2 md:pr-16 lg:pr-0 pr-0">
         <h1 className="title-font font-medium text-3xl text-gray-900 text-center">
         Design-Code-Realase<br/>  
-           with 	&#10084;
+           with 
 
           </h1>
         <p className="leading-relaxed mt-4 text-center">Developing E-commerce Softwares Crm Softwares </p>
