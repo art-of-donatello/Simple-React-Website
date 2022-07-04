@@ -1,5 +1,5 @@
 import React from 'react';
-import {Banner,Cart,Footer,Header,Product,Content,Sponsor,Postgonder,Cablecar} from './component';
+import {Banner,Cart,Footer,Header,Product,Content,Sponsor,Postgonder,Cablecar} from '../component';
 
 
 
