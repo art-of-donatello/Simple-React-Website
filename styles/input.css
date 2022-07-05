@@ -16,7 +16,7 @@
     border-width: 0;
     left: 0;
     position: fixed;
-    right: 0;
+    right: 0; 
     top: 0;
     transition-duration: .5s;
     transition-property: all;
@@ -31,10 +31,14 @@
   } 
 .svgdiv{
 
-    border-image-width:0px;
+    border-image-width:0px; 
 }
 #banner{
-    background: bottom;
+    background: bottom; 
     background-image: url('./images/bg.png') !important; 
-   
+    
+}     
+#reflogo>img{
+    max-height: 150px;
+    width: auto;
 }

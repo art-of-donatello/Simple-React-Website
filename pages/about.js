@@ -13,7 +13,7 @@ export default function About() {
       
       <Header />   
 
-
+      <Sponsor></Sponsor>
       <Product />
       <Footer />
 

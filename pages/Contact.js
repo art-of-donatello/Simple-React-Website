@@ -14,8 +14,10 @@ export default function Contact() {
       
       <Header />   
 
-
-      <Product />
+      <Banner></Banner>
+      <Sponsor></Sponsor>
+     
+      
       <Footer />
 
         

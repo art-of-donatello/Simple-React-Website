@@ -15,7 +15,7 @@ export const App = () => {
     <Banner />   
     <Content />
     <Sponsor />
-    <Product />
+    
     <Footer />
    
      </main>
