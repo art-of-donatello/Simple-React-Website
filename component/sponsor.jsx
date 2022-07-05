@@ -30,7 +30,7 @@ const Sponsors = [
     name: 'Ted Fox',
     email: 'ted.fox@example.com',
     image:
-    '../images/logos/alfa.png',
+    '../images/logos/alfa1.png',
   },
   {
     name: 'Ted Fox',
