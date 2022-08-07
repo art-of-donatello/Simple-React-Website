@@ -1,5 +1,5 @@
 import { configureStore } from "@reduxjs/toolkit";
-import loginSlicer,{loginState} from "../reducers/login/loginSlicer";
+import loginSlicer from "../reducers/login/loginSlicer";
 
 
 function loadFromLocalStorage() {

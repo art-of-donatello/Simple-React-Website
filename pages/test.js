@@ -42,8 +42,8 @@ export default function Home() {
       console.error("Error adding document: ", e);
     }
   
-    const csfrtoken= getCsrfToken();
-    console.log(csfrtoken.then((data)=>console.log(data)));
+    /*const csfrtoken= getCsrfToken();
+    console.log(csfrtoken.then((data)=>console.log(data)));*/
     const check = LoginCheck();
     if(typeof window!=='undefined'){
     const serializedStore = localStorage.getItem('store');
