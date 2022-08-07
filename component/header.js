@@ -26,7 +26,7 @@ const UserLogin = () => {
         <button onClick={()=>signIn()} className="bg-transparent hover:bg-purple-700 text-purple-700 hover:text-white py-1 px-3 rounded border border-solid border-white mr-2">
           Sign In
         </button>
-        <Link href="/signOn">
+        <Link href="/signup">
         <button className="bg-purple-700 hover:bg-purple-800 text-white py-1 px-3 rounded border border-solid border-purple-700 hover:border-purple-800">
           Sign Up
         </button>
