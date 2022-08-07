@@ -5,5 +5,7 @@ export {default as Product} from './product';
 export {default as Banner} from './banner';
 export {default as Content } from './content';
 export {default as Sponsor } from './sponsor';
+export {default as Loginform } from './Loginform';
+export {default as Login } from './login';
 export {default as Postgonder } from './postGonder';
 export {default as Cablecar } from './cablecar'
