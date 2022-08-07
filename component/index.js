@@ -7,6 +7,6 @@ export {default as Content } from './content';
 export {default as Sponsor } from './sponsor';
 export {default as Loginform } from './Loginform';
 export {default as Login } from './login';
-export {default as Signon } from './signon';
+export {default as Signon } from './signOn';
 export {default as Postgonder } from './postGonder';
 export {default as Cablecar } from './cablecar'
