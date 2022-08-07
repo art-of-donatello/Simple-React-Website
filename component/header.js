@@ -13,7 +13,7 @@ const session = useSession();
 const UserLogin = () => {
     if (session.status === "authenticated") {
       return (
-        <>
+        <>  
       
         <button className='bg-transparent hover:bg-purple-700 text-purple-700 hover:text-white py-1 px-3 rounded border border-solid border-white mr-2' onClick={() => signOut()}>Sign out</button>
       
