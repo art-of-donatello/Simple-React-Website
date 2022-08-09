@@ -8,5 +8,7 @@ export {default as Sponsor } from './sponsor';
 export {default as Loginform } from './Loginform';
 export {default as Login } from './login';
 export {default as Signon } from './signOn';
+export {default as Usermanagement } from './usermanagement';
+export {default as AuthCheck } from './authCheck';
 export {default as Postgonder } from './postGonder';
 export {default as Cablecar } from './cablecar'
